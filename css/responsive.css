@@ -2509,7 +2509,12 @@ p {
     font-size: 45px;
     font-weight: 700;
     line-height: 0;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+}
+
+.mr-top {
+	position: relative;
+	top: 50px;
 }
 
 .blog_cont h4 {
