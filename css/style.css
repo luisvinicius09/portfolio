@@ -1690,7 +1690,7 @@ input[type="radio"] .styled:checked+label::after {
     margin-top: 30px;
     background-image: url("../images/banner_bg.png");
     width: 100%;
-		max-height: 520px;
+    max-height: 520px;
     background-size: cover;
 }
 
