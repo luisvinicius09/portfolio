@@ -1193,7 +1193,7 @@
 
 #slider_main a.carousel-control-prev {
     position: absolute;
-    left: -31px;
+    left: -71px;
     top: 35%;
 }
 
@@ -1375,7 +1375,7 @@
 
 #slider_main a.carousel-control-prev {
     position: absolute;
-    left: -31px;
+    left: -71px;
     top: 20%;
 }
 
@@ -1392,10 +1392,6 @@
     margin: 0;
     padding: 0;
     line-height: normal;
-}
-
-.slider_cont_section p {
-    display: none;
 }
 
 .button_section a {
@@ -1628,7 +1624,7 @@ p {
 
 #slider_main a.carousel-control-prev {
     position: absolute;
-    left: -31px;
+    left: -71px;
     top: 20%;
 }
 
@@ -1645,10 +1641,6 @@ p {
     margin: 0;
     padding: 0;
     line-height: normal;
-}
-
-.slider_cont_section p {
-    display: none;
 }
 
 .button_section a {
@@ -2110,7 +2102,7 @@ p {
 
 #slider_main a.carousel-control-prev {
     position: absolute;
-    left: -31px;
+    left: -71px;
     top: 30%;
 }
 

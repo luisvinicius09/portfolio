@@ -1690,7 +1690,7 @@ input[type="radio"] .styled:checked+label::after {
     margin-top: 30px;
     background-image: url("../images/banner_bg.png");
     width: 100%;
-    min-height: 815px;
+		max-height: 520px;
     background-size: cover;
 }
 
@@ -1721,13 +1721,13 @@ input[type="radio"] .styled:checked+label::after {
 
 #slider_main a.carousel-control-prev {
     position: absolute;
-    left: -31px;
+    left: -71px;
     top: 45%;
 }
 
 #slider_main a.carousel-control-next {
     position: absolute;
-    left: -31px;
+    left: -71px;
     top: 55%;
 }
 
